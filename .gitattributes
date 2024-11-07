@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.gbr linguist-detectable=true
+*.asm linguist-detectable=true
+*.hex linguist-detectable=true
+*.bas linguist-detectable=true
